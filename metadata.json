@@ -1,0 +1,5 @@
+{
+  "name": "Copy of AI Slop Detector",
+  "description": "An AI-powered tool to analyze YouTube and TikTok video URLs and detect signs of low-effort, AI-generated 'slop' content. It provides a score, a verdict, and a detailed breakdown of its findings.",
+  "requestFramePermissions": []
+}
